@@ -3,4 +3,4 @@ My first repository
 
 **Favorite Movie**
 
--The Redeem Team
+- The Redeem Team
